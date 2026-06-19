@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Design Master"
+  short_description: "Polished responsive website design systems"
+  default_prompt: "Use $frontend-design-master to design a polished responsive business website."

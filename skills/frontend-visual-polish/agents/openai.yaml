@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Visual Polish"
+  short_description: "Responsive UI QA and visual refinement"
+  default_prompt: "Use $frontend-visual-polish to review and refine a frontend until it looks production-ready."

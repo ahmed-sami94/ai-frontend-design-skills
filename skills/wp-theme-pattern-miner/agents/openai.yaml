@@ -1,0 +1,4 @@
+interface:
+  display_name: "WP Theme Pattern Miner"
+  short_description: "Extract reusable patterns from WordPress themes"
+  default_prompt: "Use $wp-theme-pattern-miner to analyze a WordPress theme folder and extract reusable frontend patterns."
