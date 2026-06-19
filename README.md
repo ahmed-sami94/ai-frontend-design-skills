@@ -111,9 +111,9 @@ Use $wp-theme-pattern-miner to analyze this WordPress theme folder and extract r
 Use $frontend-visual-polish to review this landing page and make it look production-ready on mobile and desktop.
 ```
 
-## Publishing Notes
+ # About 
+AI Frontend Design Skills is a free and open source skill pack for AI coding agents. It helps agents build polished frontend websites, WordPress themes, landing pages, ecommerce layouts, business websites, and responsive UI systems for any niche.
 
-- This repository is free and open source.
-- Do not add original commercial theme ZIPs or copied assets.
-- Keep the skill folders intact.
-- Improve the references over time as you analyze more websites and theme packages.
+The pack was distilled from 372 website/theme packages analyzed. It includes 3 skills, 4 reference guides, Codex metadata, and an MIT license. No original theme ZIPs, copied code, images, fonts, demo content, or bundled plugins are included.
+
+Use it with Codex, Claude, or any Agent Skills compatible workflow to plan, build, analyze, and polish original frontend work.
